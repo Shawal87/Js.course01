@@ -1,0 +1,24 @@
+/*
+
+Table of Content
+JavaScript Basics
+JavaScript Control Flow Statements
+JavaScript Loops
+JS Expression and Operators
+JavaScript Objects
+JavaScript Functions
+JavaScript Regular Expression
+JavaScript Events
+JavaScript OOPs
+JavaScript Inheritance and Prototype Chain
+JavaScript Memory Management
+JavaScript Promises
+JavaScript Iterators and generators
+JavaScript Validations
+JavaScript Exception Handling
+JavaScript Global Objects
+JavaScript Miscellaneous
+JavaScript Practice Quiz
+JavaScript Interview Questions
+
+*/
